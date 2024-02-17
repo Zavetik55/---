@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+}
+
+.maincontainer {
+    background-image: url(Png/bg.png);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: cover;
+    height: 88vh;
+}
+
+
+.header_container {
+    background-color: #282828;
+    padding-top: 25px;
+    height: 10vh;
+}
+.nav_item {
+    font-family: "Caveat";
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: #DF7F49;
+    font-size: 38px;
+    margin-right: 150px;
+    text-align: center;
+    padding-left: 15px;
+    text-decoration: none;
+}
+
+.nav_item a:hover {
+    color: #9eca00;
+    transition: 0,9s;
+}
+
+.h1_title {
+position: absolute;
+margin-top: 655px;
+left: 68px;
+
+font-family: "Caveat";
+font-optical-sizing: auto;
+font-style: normal;
+color: #DF7F49;
+font-size: 30px;
+}
+
+.welcome {
+    background-color: #DF7F49;
+    padding-top: 8px;
+    height: 18vh;
+}
+
+.h2_text {
+    font-family: "Caveat";
+    font-optical-sizing: auto;
+    font-style: normal;
+    color: #282828;
+    font-size: 55px;
+    text-align: center;
+}
+
+.p_bg {
+    background-color: #282828;
+    padding-top: 25px;
+    height: 50vh;
+    background-size: cover;
+}
+
+.p-text {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: 25px;
+    font-style: normal;
+    color: #DF7F49;
+    padding-left: 20px;
+}
+
+.description {
+    background-image: url(Png/bg\ 2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 27vh;}
+
+@media (max-width: 1500px) {
+    
+}
+
